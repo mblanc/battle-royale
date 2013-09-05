@@ -31,6 +31,11 @@
             <artifactId>jetty-servlet</artifactId>
             <version>7.6.0.v20120127</version>
         </dependency>
+        <dependency>
+		    <groupId>org.jsoup</groupId>
+		    <artifactId>jsoup</artifactId>
+		    <version>1.7.2</version>
+		</dependency>
 		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
